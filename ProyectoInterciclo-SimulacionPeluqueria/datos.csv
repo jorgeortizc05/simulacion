@@ -1,0 +1,8 @@
+tipoCliente,tiempoLlegada,tiempoAtencion,salida,tiempoEspera
+nino,11.0,14.5,25.5,0.0
+aulto,33,39.4,72.4,14.5
+adulto,17.5,20.9,28.4,39.4
+mujer,33.9,48.3,82.2,20.9
+nino,17.6,15.0,32.6,48.3
+mujer,29.1,35.1,64.2,15.0
+mujer,33.0,42.9,75.9,35.1
